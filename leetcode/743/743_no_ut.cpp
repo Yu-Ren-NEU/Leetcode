@@ -1,3 +1,10 @@
+/*
+ * @Description: 743 solution
+ * @Author: Yihao Wang
+ * @Date: 2020-01-06 17:02:29
+ * @LastEditors  : Yihao Wang
+ * @LastEditTime : 2020-01-06 18:07:27
+ */
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int N, int K) {
