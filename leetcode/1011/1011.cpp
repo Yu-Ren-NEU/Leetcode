@@ -1,3 +1,10 @@
+/*
+ * @Description: 1011 solution
+ * @Author: Yihao Wang
+ * @Date: 2020-01-06 17:03:12
+ * @LastEditors  : Yihao Wang
+ * @LastEditTime : 2020-01-06 18:07:18
+ */
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int D) {
